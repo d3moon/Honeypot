@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Honeypot</title>
+  <link rel="icon" 
+      type="image/png" 
+      href="https://clipart-library.com/images/yikA5jj4T.png" />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    .title {
+      -webkit-text-fill-color: transparent;
+      font-family: 'Inter', sans-serif;
+    }
+    .centered-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+    .centered-image img {
+      max-width: 400px;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="flex flex-col items-center justify-center h-screen">
+    <div class="centered-image">
+      <img src="https://clipart-library.com/images/yikA5jj4T.png" alt="Bee">
+    </div>
+    <h1 class="text-4xl font-bold mb-4 title">Bem-vindo ao Honeypot!</h1>
+    <p class="text-lg">Seu Honeypot está funcionando corretamente.</p>
+    <p class="text-lg">Endereço IP: <span class="font-bold"><%= honeypotIP %></span></p>
+  </div>
+</body>
+</html>
