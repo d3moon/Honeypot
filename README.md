@@ -31,7 +31,7 @@ Esse app representa um aplicativo Node.js que cria um Honeypot usando o framewor
 Clone esse projeto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/d3moon/Honeypot.git
 ```
 
 Vá para a pasta raiz do projeto
