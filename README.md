@@ -5,9 +5,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <div align="center">
-  <img src="https://clipart-library.com/images/yikA5jj4T.png" alt="Skull and Crossbones">
+  <img src="https://clipart-library.com/images/yikA5jj4T.png" alt="Bee" width="100">
 </div>
-
 
 
 Esse app representa um aplicativo Node.js que cria um Honeypot usando o framework Express. O Honeypot é uma técnica de segurança que consiste em simular um sistema vulnerável para atrair possíveis atacantes, registrando suas tentativas e coletando informações sobre eles.
