@@ -1,6 +1,10 @@
 
 # Honeypot
 
+ <div align="center">
+      <img src="https://clipart-library.com/images/yikA5jj4T.png" width="200" alt="Bee">
+    </div>
+
 Esse app representa um aplicativo Node.js que cria um Honeypot usando o framework Express. O Honeypot é uma técnica de segurança que consiste em simular um sistema vulnerável para atrair possíveis atacantes, registrando suas tentativas e coletando informações sobre eles.
 
 
