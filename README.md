@@ -14,6 +14,8 @@ Esse app representa um aplicativo Node.js que cria um Honeypot usando o framewor
 
 - Execução de comandos no servidor: O Honeypot também oferece a capacidade de executar comandos no sistema operacional do servidor. Os comandos são recebidos através da rota `/cmd` e são executados usando o módulo `child_process`.
 
+- ***[A funcionalidade de geolocalização funciona melhor com um endereço público]***
+
 ## Requisitos do Sistema
 
 - Node.js: Certifique-se de ter o Node.js instalado no seu sistema. Você pode baixá-lo em [https://nodejs.org](https://nodejs.org).
